@@ -1,6 +1,6 @@
 # Curso de Python
 
-[Curso completo de python 3 de la A a la Z de Udemy](https://www.udemy.com/course/python-3-az/)
+[Curso completo de python 3 de la A a la Z de Udemy](https://www.udemy.com/course/python-3-az/){:target="_blank"}
 
 ## Requisitos Previos en PC
 - Anaconda Navigator
