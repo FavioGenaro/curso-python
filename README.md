@@ -2,7 +2,7 @@
 
 [Curso completo de python 3 de la A a la Z de Udemy](https://www.udemy.com/course/python-3-az/)
 
-## Requisitos Previos en PC
+## Requisitos Previos
 - Anaconda Navigator
 - Jupyter notebook
 
